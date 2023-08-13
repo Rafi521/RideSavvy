@@ -1,4 +1,4 @@
-# Rentbuddy
+# RaidSavvy
 AUST CSE(3.2)-(Information System Design Lab(CSE3224))==>ASP.NET(MVC) PROJECT
 
 Project Goals: 
